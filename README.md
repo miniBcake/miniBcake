@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=MiniBcake&animation=&fontColor=3c4967&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 성장하는 개발자 한지윤입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> JAVA와 JavaScript, SQL 같은 서로 다른 프로그래밍 언어를 공부하며 문제 해결 능력을 키웠으며, 디자인 전공을 통해 창의적인 사고와 사용자 중심의 문제 해결 능력을 길러 개발 과정에서 사용자 경험을 고려한 설계에 강점을 두고 있습니다. </li>소통과 협업을 중요시하며, 책임감 있게 프로젝트를 완수한 경험이 많습니다. 끊임없는 발전을 통해 최선을 다하겠습니다. </div> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 트러블슈팅도 즐거워하는 개발자 (베타버전) <span style="color: #3F7F5F;">/*한지윤입니다.*/</span>  </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 문제해결 과정에서 배움의 즐거움을 느끼는 신입 개발자입니다. JAVA, JavaScript, SQL 등의 언어와 JSP, Spring 등 다양한 구조를 학습했습니다. <br>프로젝트에서 형상관리와 로깅 시스템, 기능연결을 담당하며 다양한 트러블슈팅을 경험했고, 전체적인 시스템 흐름을 이해하려 노력했습니다. 꼼꼼하게 원인을 찾고 해결하는 과정을 즐기며 성장하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
