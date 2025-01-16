@@ -1,5 +1,3 @@
-<h2>개발 블로그 보기</h2> <a href=https://minibcake.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://minibcake.tistory.com/"> </a>
-<hr>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=MiniBcake&animation=&fontColor=3c4967&fontSize=40" />
     </div>
